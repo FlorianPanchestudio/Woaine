@@ -1,0 +1,8 @@
+{
+  "appId": "com.florianpanchestudio.woaine",
+  "appName": "Woaine",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
