@@ -2,7 +2,7 @@
   "name": "Woaine",
   "short_name": "Woaine",
   "description": "Suivi de compteurs personnels",
-  "start_url": "/woaine/",
+  "start_url": "/Woaine/",
   "display": "standalone",
   "background_color": "#0F0F11",
   "theme_color": "#0F0F11",
